@@ -45,10 +45,13 @@ The goal was to explore:
 📁 Sentiment-Social-Media-Dashboard/
 ├── Social_Media_Sentiment.pbix  # Power BI file
 ├── cleaned_dataset.xlsx         
-└── README.md                    # This file
+└── README.md
+---
 ## How to Run
 
 1. Clone this repo:
    ```bash
    git clone https://github.com/MRoshaan/social-sentiment.git
-
+---
+## Note
+This dashboard was built as part of personal learning. Initially unpublished, this is a refined and documented version to reflect growth and understanding of sentiment analytics.
