@@ -2,9 +2,6 @@
 
 This Power BI dashboard visualizes sentiment patterns across global social media platforms using hashtag-level data. It highlights emotional trends, platform usage, and hashtag popularity based on metrics such as likes and retweets.
 
-
----
-
 ## 🧠 Project Objectives
 
 The goal was to explore:
@@ -13,22 +10,18 @@ The goal was to explore:
 - Sentiment distribution across countries and platforms (Twitter, Instagram, Facebook)
 - Emotional correlation with user interaction (engagement behavior)
 
----
-
 ## 🔧 Tools & Technologies Used
 
 - **Power BI**
-  - DAX (Data Analysis Expressions) for advanced measures
-  - Filters, slicers, and visual customization
+    - DAX (Data Analysis Expressions) for advanced measures
+    - Filters, slicers, and visual customization
 - **Microsoft Excel**
-  - Used as the data source
-  - Initial data cleaning and transformation
+    - Used as the data source
+    - Initial data cleaning and transformation
 - **DAX Calculations**
-  - Aggregation of likes and retweets by sentiment
-  - Dynamic slicers for year and month range
-  - Country-level visualizations
-
----
+    - Aggregation of likes and retweets by sentiment
+    - Dynamic slicers for year and month range
+    - Country-level visualizations
 
 ## 📈 Key Insights
 
@@ -37,21 +30,16 @@ The goal was to explore:
 - 🌍 Geographic breakdown revealed high sentiment variety across continents.
 - 📱 Platform-wise sentiment: Instagram and Twitter dominated emotional expression over Facebook.
 
----
 
-## 🗂️ Project Structure
-
-```bash
-📁 Sentiment-Social-Media-Dashboard/
-├── Social_Media_Sentiment.pbix  # Power BI file
-├── cleaned_dataset.xlsx         
-└── README.md
----
 ## How to Run
 
-1. Clone this repo:
-   ```bash
-   git clone https://github.com/MRoshaan/social-sentiment.git
----
+1.  Clone this repo:
+    ```bash
+    git clone [https://github.com/MRoshaan/social-sentiment.git](https://github.com/MRoshaan/social-sentiment.git)
+    ```
+2.  Open `Social_Media_Sentiment.pbix` in Power BI Desktop.
+3.  Refresh data if prompted (ensure `cleaned_dataset.xlsx` is in the same directory).
+
 ## Note
+
 This dashboard was built as part of personal learning. Initially unpublished, this is a refined and documented version to reflect growth and understanding of sentiment analytics.
